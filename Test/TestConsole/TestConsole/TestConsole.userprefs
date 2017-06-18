@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{77AB6AB1-6FF8-4BD8-A831-AAD8CD95E3CE}|Default" StartupItem="TestConsole/TestConsole.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestConsole/Program.cs">
+    <Files>
+      <File FileName="TestConsole/Program.cs" Line="31" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>../../../IhaiuLog/IhaiuLog/IhaiuLog.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.ItemProperties.TestConsole PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

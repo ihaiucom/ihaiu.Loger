@@ -1,0 +1,6 @@
+/Users/zengfeng/workspaces/www/githubpages/ihaiu.Loger/Test/TestConsole/TestConsole/TestConsole/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/zengfeng/workspaces/www/githubpages/ihaiu.Loger/Test/TestConsole/TestConsole/TestConsole/bin/Debug/TestConsole.exe.mdb
+/Users/zengfeng/workspaces/www/githubpages/ihaiu.Loger/Test/TestConsole/TestConsole/TestConsole/bin/Debug/TestConsole.exe
+/Users/zengfeng/workspaces/www/githubpages/ihaiu.Loger/Test/TestConsole/TestConsole/TestConsole/obj/x86/Debug/TestConsole.exe
+/Users/zengfeng/workspaces/www/githubpages/ihaiu.Loger/Test/TestConsole/TestConsole/TestConsole/obj/x86/Debug/TestConsole.exe.mdb
+/Users/zengfeng/workspaces/www/githubpages/ihaiu.Loger/Test/TestConsole/TestConsole/TestConsole/bin/Debug/IhaiuLog.dll
