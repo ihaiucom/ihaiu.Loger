@@ -36,7 +36,7 @@ public static void LogTag				(object tag, 	object message);
 public static void Log					(bool 	isopen, object tag, 	object message);
 
 
-    <br>
+<br>
 
 // LogFormat
 
