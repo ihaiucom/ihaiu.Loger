@@ -55,3 +55,8 @@ public static void LogFormat 			(bool isopen, object tag, string format, params 
 ![](https://github.com/ihaiucom/ihaiu.Loger/blob/master/Test/doc/ihaiu.Loger.png?raw=true) 
 
 你可以取实现自己的ILogHandle,比如把Log输出到文件。
+
+
+
+<br>
+<a href="http://blog.ihaiu.com/" target="_bank">我的博客 http://blog.ihaiu.com/</a>
