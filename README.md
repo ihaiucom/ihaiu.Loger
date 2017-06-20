@@ -28,6 +28,7 @@ C# Log 用来适配 Console.WriteLine 和 Unity Debug
 ## Api
 
 // Log
+
 public static void Log					(object message);
 
 public static void LogTag				(object tag, 	object message);
@@ -38,6 +39,7 @@ public static void Log					(bool 	isopen, object tag, 	object message);
 
 
 // LogFormat
+
 public static void LogFormat 			(string format, params object[] args);
 
 public static void LogTagFormat 		(object tag, string format, params object[] args);
